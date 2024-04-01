@@ -7,7 +7,7 @@
 
 ---
 
-### 타임라인
+## 타임라인
 ```mermaid
 gantt
     title 학력 및 업무 경험
@@ -20,34 +20,40 @@ gantt
         (주)제이에이  : 2020-01-01, 2021-12-31
 ```
 
-### 업무 경험
+## 업무 경험
 **(주)제이에이 : _2020-01-01 ~ 2021-12-31_**
 
 기초 데이터 분석 교육과정 강사
 
 <br>
 
-### 사이드 프로젝트
-#### 로아플(Loaple)
+## 사이드 프로젝트
+### 로아플(Loaple)
 온라인 게임 **로스트아크** 유저를 위한 사용자 경험 최적화 웹 서비스
 
-**`ReactJS`** **`Next.js`** **`AWS EC2`** **`TypeScript`**
+[![Stack](https://skillicons.dev/icons?i=typescript,react,next,aws)](https://skillicons.dev)
 
 - https://loaple.site
 - https://github.com/momo1108/LostarkProject
 
 <br>
 
-#### markdown-grouper
+### markdown-grouper
 NPM 에 업로드되어있는 1인 제작 패키지입니다.
 
 HTML을 Markdown으로 변환하는 과정에서 문단별로 섹션을 나누기 위한 기능을 제공합니다.
 
+[![Stack](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
+
 - https://www.npmjs.com/package/markdown-grouper
 
-### 개인 블로그
+## 개인 블로그
 Github Pages 로 호스팅한 개인 블로그입니다.
 
 Ruby 언어의 Jekyll 을 사용하여 개발되었습니다.
 
 - https://momo1108.github.io/
+
+## Contact
+- banghyechan@gmail.com
+- momo1108@daum.net
