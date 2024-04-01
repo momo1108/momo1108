@@ -46,6 +46,7 @@ HTML을 Markdown으로 변환하는 과정에서 문단별로 섹션을 나누�
 [![Stack](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
 - https://www.npmjs.com/package/markdown-grouper
+- https://github.com/momo1108/markdown-grouper
 
 ## 개인 블로그
 Github Pages 로 호스팅한 개인 블로그입니다.
