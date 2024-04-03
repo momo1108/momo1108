@@ -47,10 +47,11 @@ gantt
 
 온라인 게임 **로스트아크** 유저를 위한 사용자 경험 최적화 웹 서비스
 
-[![Stack](https://skillicons.dev/icons?i=typescript,react,next,aws)](https://skillicons.dev)
 
 - https://loaple.site
 - https://github.com/momo1108/LostarkProject
+
+[![Stack](https://skillicons.dev/icons?i=typescript,react,next,aws)](https://skillicons.dev)
 
 <br>
 
@@ -61,10 +62,10 @@ NPM 에 업로드되어있는 1인 제작 패키지입니다.
 
 HTML을 Markdown으로 변환하는 과정에서 문단별로 섹션을 나누기 위한 기능을 제공합니다.
 
-[![Stack](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
-
 - https://www.npmjs.com/package/markdown-grouper
 - https://github.com/momo1108/markdown-grouper
+
+[![Stack](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
 
 ## 개인 블로그
 :calendar: **2024/01/11 ~ 운영중**
