@@ -32,10 +32,6 @@ gantt
         markdown-grouper    : cl2, 2023-12-08, 2024-01-05
     section 블로그
         깃헙블로그    : active, cl3, 2024-01-11, 2024-04-30
-
-    click cl1 href "https://loaple.site/"
-    click cl2 href "https://www.npmjs.com/package/markdown-grouper"
-    click cl3 href "https://momo1108.github.io/"
 ```
 
 ## 업무 경험
