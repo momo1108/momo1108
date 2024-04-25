@@ -43,12 +43,13 @@ gantt
 
 ## 사이드 프로젝트
 ### 로아플(Loaple)
-:calendar: **`2023/04/21 ~ 운영중`**
+:calendar: **`2023/04/21 ~ 2024/04/24(임시 폐쇄)`**
 
 온라인 게임 **로스트아크** 유저를 위한 사용자 경험 최적화 웹 서비스
 
+_서버 비용 문제로 임시 폐쇄중입니다._
 
-- https://loaple.site
+- ~~https://loaple.site~~
 - https://github.com/momo1108/LostarkProject
 
 [![Stack](https://skillicons.dev/icons?i=typescript,react,next,aws)](https://skillicons.dev)
