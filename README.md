@@ -1,83 +1,80 @@
-## 개발자 방혜찬의 프로필
-원활한 소통 능력과 실행력을 가진 프론트엔드 개발자 방혜찬입니다.
-- 2년간 사내 개발자, 데이터 분석 강사로 근무하면서 상대방의 입장에서 정보를 전달하고 질문에 답하며 소통의 중요성을 깨달았습니다. 이후 사내 팀 프로젝트에서도 팀원과 소통하며 진행에 방해될 수 있는 습관을 개선했습니다.
-- 퇴사 이후 쌓은 개발 지식을 바탕으로 취미생활을 하며 필요성을 느낀 서비스를 구체화한 개인 프로젝트를 4개월간 기획/개발 후 배포하여 8개월 간 유지보수한 경험이 있습니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=30&fontAlignY=40&section=header&text=Front-End%20Developer%20Hyechan%20Bang's%20Github)
 
-이 Github에는 그동안 **개발한 사이드 프로젝트, 공부한 내용들과 블로그** 등 모든 활동이 업로드 되어있습니다.
+기획부터 개발, 배포, 운영까지 직접 책임져본 경험을 바탕으로 문제를 끝까지 해결해내는 추진력을 갖춘 3년차 프론트엔드 개발자입니다.
+
+개발자이자 강사로 2년간 일하며 다양한 사람들과 소통한 경험은 팀 협업에서도 적극적인 피드백과 원활한 커뮤니케이션으로 이어졌습니다.
+수기·엑셀 기반 업무를 디지털 웹 서비스로 전환하여 운영 효율을 증가시키고 단편적으로 제공되던 기능과 데이터를 한 화면에 통합하여 UX를 개선하는 작업을 해왔습니다.
+
+실사용자의 불편을 개선하는 것에 보람을 느끼고 있습니다.
 
 ---
 
-## 타임라인
-```mermaid
-gantt
-    title 📆 학력 및 업무 경험
-    dateFormat YYYY-MM-DD
-    axisFormat %Y-%m
-    section 학력
-        숭실대학교(전자정보공학부)       : 2017-01-01, 2019-08-16
-        국가기간 교육과정(시큐어코딩 기반 블록체인 개발)  : 2019-05-10, 2019-12-13
-    section 업무경험
-        (주)제이에이  : 2020-01-01, 2021-12-31
-```
+## Skills
+### Front-End
+[![TypeScript][TypeScript]][TypeScript-url] [![JavaScript][JavaScript]][JavaScript-url] [![HTML5][HTML5]][HTML5-url] [![CSS3][CSS3]][CSS3-url] 
 
-```mermaid
-gantt
-    title 📆 사이드 프로젝트 및 블로그 운영
-    dateFormat YYYY-MM-DD
-    axisFormat %Y-%m
-    tickInterval 1month
-    todayMarker off
-    section 사이드 프로젝트
-        로아플(Loaple)    : active, cl1, 2023-04-21, 2024-04-30
-        markdown-grouper    : cl2, 2023-12-08, 2024-01-05
-    section 블로그
-        깃헙블로그    : active, cl3, 2024-01-11, 2024-04-30
-```
+[![React.js][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Next][Next.js]][Next-url]
 
-## 업무 경험
-**(주)제이에이 : _2020-01-01 ~ 2021-12-31_**
+[![Redux][Redux]][Redux-url] [![ReactQuery][ReactQuery]][ReactQuery-url]
 
-- 프론트엔드 개발자
-- 기초 데이터 분석 교육과정 강사
+[![TailwindCSS][TailwindCSS]][TailwindCSS-url] [![StyledComponent][StyledComponent]][StyledComponent-url] 
 
-<br>
+### Back-End
+[![Express][Express.js]][Express-url] [![Firebase][Firebase]][Firebase-url] [![MySQL][MySQL]][MySQL-url]
 
-## 사이드 프로젝트
-### 로아플(Loaple)
-:calendar: **`2023/04/21 ~ 2024/04/24(임시 폐쇄)`**
+### DevOps
+[![EC2][EC2]][EC2-url] [![Nginx][Nginx]][Nginx-url] [![Vercel][Vercel]][Vercel-url]
 
-온라인 게임 **로스트아크** 유저를 위한 사용자 경험 최적화 웹 서비스
+## Github Stats
+![momo1108's GitHub stats](https://github-readme-stats.vercel.app/api?username=momo1108&show_icons=true&rank_icon=github)
 
-_서버 비용 문제로 임시 폐쇄중입니다._
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1108&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-- ~~https://loaple.site~~
-- https://github.com/momo1108/LostarkProject
 
-[![Stack](https://skillicons.dev/icons?i=typescript,react,next,aws)](https://skillicons.dev)
-
-<br>
-
-### markdown-grouper
-:calendar: **`2023/12/08 ~ 2024/01/05`**
-
-NPM 에 업로드되어있는 1인 제작 패키지입니다.
-
-HTML을 Markdown으로 변환하는 과정에서 문단별로 섹션을 나누기 위한 기능을 제공합니다.
-
-- https://www.npmjs.com/package/markdown-grouper
-- https://github.com/momo1108/markdown-grouper
-
-[![Stack](https://skillicons.dev/icons?i=typescript)](https://skillicons.dev)
-
-## 개인 블로그
-:calendar: **`2024/01/11 ~ 운영중`**
-
-Github Pages 로 호스팅한 개인 블로그입니다.
-
-Ruby 언어의 Jekyll 을 사용하여 개발되었습니다.
-
-- https://momo1108.github.io/
+## Blog
+- https://momo1108.github.io/blog/
 
 ## Contact
 - banghyechan@gmail.com
 - momo1108@daum.net
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-url]: https://html.spec.whatwg.org/
+[CSS3]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://www.w3.org/Style/CSS/#specs
+[JavaScript]: https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge
+[JavaScript-url]: https://tc39.es/
+[TypeScript]: https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB
+[TypeScript-url]: https://www.typescriptlang.org/
+[React.js]: https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Redux]: https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux
+[Redux-url]: https://redux.js.org/
+[ReactQuery]: https://img.shields.io/badge/react_query-FFF3F4?style=for-the-badge&logo=reactquery&logoColor=FF4154
+[ReactQuery-url]: https://tanstack.com/query/latest/docs/framework/react/overview
+[ReactHookForm]: https://img.shields.io/badge/react_hook_form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=FFFFFF
+[ReactHookForm-url]: https://react-hook-form.com/
+[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[Vue-url]: https://vuejs.org/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[TailwindCSS]: https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss&style=for-the-badge
+[TailwindCSS-url]: https://tailwindcss.com/
+[StyledComponent]: https://img.shields.io/badge/styled--components-FFF1FA?style=for-the-badge&logo=styledcomponents&logoColor=E871BF
+[StyledComponent-url]: https://styled-components.com/
+[Express.js]: https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge
+[Express-url]: https://expressjs.com/
+[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://www.mysql.com/
+[Firebase]: https://img.shields.io/badge/firebase-FFC400?style=for-the-badge&logo=firebase&logoColor=E871BF
+[Firebase-url]: https://firebase.google.com/
+[Vite]: https://img.shields.io/badge/vite-B53EFE?style=for-the-badge&logo=vite&logoColor=FFCF27
+[Vite-url]: https://ko.vitejs.dev/guide/
+[Vercel]: https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF
+[Vercel-url]: https://vercel.com/
+[EC2]: https://img.shields.io/badge/EC2-141f2e?style=for-the-badge&logo=amazon&logoColor=FFFFFF
+[EC2-url]: https://aws.amazon.com/ko/ec2/
+[Nginx]: https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge
+[Nginx-url]: https://vercel.com/
