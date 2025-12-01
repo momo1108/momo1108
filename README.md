@@ -25,12 +25,6 @@
 ### DevOps
 [![EC2][EC2]][EC2-url] [![Nginx][Nginx]][Nginx-url] [![Vercel][Vercel]][Vercel-url]
 
-## Github Stats
-![momo1108's GitHub stats](https://github-readme-stats.vercel.app/api?username=momo1108&show_icons=true&rank_icon=github)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1108&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Blog
 - https://momo1108.github.io/blog/
 
@@ -78,3 +72,11 @@
 [EC2-url]: https://aws.amazon.com/ko/ec2/
 [Nginx]: https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge
 [Nginx-url]: https://vercel.com/
+
+<!-- ## Github Stats
+![momo1108's GitHub stats](https://github-readme-stats.vercel.app/api?username=momo1108&show_icons=true&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1108&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momo1108&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+-->
