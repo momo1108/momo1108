@@ -27,6 +27,7 @@ TypeScript, React/Vue 기반의 3년차 프론트엔드 개발자입니다.
 
 ## Blog
 - https://momo1108.github.io/blog/
+- https://hyechan.tistory.com/
 
 ## Contact
 - banghyechan@gmail.com
